@@ -1,5 +1,5 @@
 -- ======================
--- SBS HUB COMPLETO FINAL  (NPC OR DIE)
+-- SBS HUB COMPLETO FINAL  (BARRY'S PRISON RUN)
 -- ======================
 repeat task.wait() until game:IsLoaded()
 
