@@ -1073,7 +1073,7 @@ if topTitle then
             loadstring(game:HttpGet("https://raw.githubusercontent.com/davidsebas348-hub/Text471/refs/heads/main/Text471.lua"))()
 
         elseif opt == "SER GUARDIA" then
-            getgenv().StageNumber = 25
+            getgenv().StageNumber = 20
             loadstring(game:HttpGet("https://raw.githubusercontent.com/davidsebas348-hub/Text66/refs/heads/main/Text66.lua"))()
             loadstring(game:HttpGet("https://raw.githubusercontent.com/davidsebas348-hub/Text67/refs/heads/main/Text67.lua"))()
                             
