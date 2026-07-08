@@ -859,7 +859,7 @@ local scrollConfig = {
 -- ======================
 -- MENUS
 -- ======================
-local menuOrder = {"MAIN","ESP","COMBATE","GUARDIA","GANAR/SPEEDRUN","TOOL/OP","TROLL","TELEPORT/ETAPA","COIN","EXTRA","FPS"}
+local menuOrder = {"MAIN","ESP","COMBATE","GUARDIA","SPEEDRUN","TOOL/OP","TROLL","TELEPORT/ETAPA","COIN","EXTRA","FPS"}
 local menuData = {
     ["MAIN"] = {
     "INVISIBLE",
@@ -909,14 +909,11 @@ local menuData = {
         "ESCRIBE LA ETAPA QUE QUIERAS IR",
         "ESTAR EN LA ETAPA 99.900M",
         "TP TOOL",
-        "TP A DIAMANTE",
-        "TP A DIAMANTE ROJO",
         "NOMBRE DE EL JUGADOR",
         "TP A JUGADOR",
     },
-    ["GANAR/SPEEDRUN"] = {
+    ["SPEEDRUN"] = {
         "PARAR EL TIEMPO",
-        "COMPLETAR OBBY",
     },
     ["GUARDIA"] = {
         "AUTO ARRESTAR",
