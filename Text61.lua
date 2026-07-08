@@ -899,11 +899,6 @@ local menuData = {
     },
     ["COMBATE"] = {
         "AUTO DISPARAR (EQUIPAR MINIGUN)",
-        "ACTIVAR MODIFICACION PARA EL BAZOOKA",
-        "VELOCIDAD DE EL DISPARO",
-        "DAÑO DE EL DISPARO",
-        "FUERZA DE EL DISPARO",
-        "TIEMPO DE RECARGA",
         "KILL AURA (EQUIPAR BATON)",
         "RANGO",
         "EXPANDIR HITBOX",
